@@ -24,7 +24,6 @@ npm start
 - Install the following extention
 <div align="center">
 	<img src="images/ext.png">
-	<img src="images/process.png">
 </div>
 
 - Open Command pallete and select option
