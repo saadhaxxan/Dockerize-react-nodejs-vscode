@@ -21,13 +21,18 @@ npm start
 
 ## Configuring Docker Container in VS-CODE
 
-<div align="center">
 - Install the following extention
+<div align="center">
 	<img src="images/ext.png">
-	<br>
+	<img src="images/process.png">
+</div>
+
 - Open Command pallete and select option
+<div align="center">
   	<img src="images/open.png">
-	<br>
+</div>	
+
+<div align="center">
 	<img src="images/process.png">
 </div>
 
