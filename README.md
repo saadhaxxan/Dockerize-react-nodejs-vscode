@@ -31,6 +31,8 @@ npm start
   	<img src="images/open.png">
 </div>	
 
+
+- Container Building and Running
 <div align="center">
 	<img src="images/process.png">
 </div>
