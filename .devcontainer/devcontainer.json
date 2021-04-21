@@ -1,0 +1,12 @@
+{
+  "name": "Node React ENV",
+  "dockerFile": "DockerFile",
+  "appPort": [3000],
+  "runArgs": ["-u", "node"],
+  "settings": {
+    "workbench.colorTheme": "Shades of Purple",
+    "terminal.integrated.shell.windows": "C:WindowsSystem32cmd.exe"
+  },
+  "postCreateCommand": "npm install",
+  "extensions": ["esbenp.prettier-vscode", "ahmadawais.shades-of-purple"]
+}
