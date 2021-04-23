@@ -26,7 +26,7 @@ npm start
 	<img src="images/ext.png">
 </div>
 
-- Open Command pallete and select option
+- Open Command pallete and select option (Reopen in Container)
 <div align="center">
   	<img src="images/open.png">
 </div>	
