@@ -17,20 +17,23 @@ git clone https://github.com/saadhaxxan/Dockerize-react-nodejs-vscode
 cd Dockerize-react-nodejs-vscode
 ```
 
-## Configuring Docker Container in VS-CODE
+# Configuring Docker Container in VS-CODE
 
-- Install the following extention
+### Install the following extention
+<br>
 <div align="center">
-	<img src="images/ext.png" width="200px" height="200px">
+	<img src="images/ext.png">
 </div>
 
-- Open Command pallete and select option (Reopen in Container)
+### Open Command pallete and select option (Reopen in Container)
+<br>
 <div align="center">
   	<img src="images/open.png">
 </div>	
 
 
-- Container Building and Running
+### Container Building and Running
+<br>
 <div align="center">
 	<img src="images/process.png">
 </div>
